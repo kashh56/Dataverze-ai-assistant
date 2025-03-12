@@ -1,0 +1,361 @@
+ """
+    Solutions
+
+Offerings
+
+Get In Touch
+
+Privacy Policy
+
+Track bottom-line impact with Domain Centric Analysis and actionable recommendations
+
+Save resources with a universal vocabulary across data stakeholders
+
+Build a natural seamless process for data evolution
+
+SCROLL
+
+Take the next step
+
+© 2023 Dataverze. All Rights Reserved.
+
+Track bottom-line impact with Domain Centric Analysis and actionable recommendations.
+
+Save resources with a universal vocabulary across data stakeholders.
+
+Build a natural seamless process for data evolution.
+
+A solution for every challenge.
+
+Our consultations are aimed at creating the right solution that propels your growth. The evaluation workshops for better alignment with business goals, and engineering with high-level architecture and roadmaps, are part of the exciting journey we take together towards the success you envision.
+
+Learn more
+
+How do we make your data ACTIONABLE.
+
+Data Productization
+
+Enriched Data Context
+
+Domain Driven Design for data
+
+Data Democratization
+
+Inter-operability of data systems
+
+Our customized solutions are suited for distributed and/or centralized systems.
+
+Learn more
+
+↑ ↓
+
+© Dataverze. All Rights Reserved.
+
+Solutions
+
+Offerings
+
+Get In Touch
+
+Privacy Policy
+
+How do we
+
+solve it?
+
+Right solution for your organization. There is no single solution for all organizations. We customize data solutions to meet your near term and long-term goals. Our solutions enable quick decisions in an agile and scalable environment. We perform multiple workshops with business users to discover the needs/ events. This also helps us evaluate the maturity of data system in the organization.
+
+We have developed frameworks, code generators and other resource library to streamline the implementation. Our solutions enable:
+
+Data Productization
+
+Data as a product creates a clear understanding of the purpose, quality and value of each data set, and makes it available to other teams within the organization in a standardized, discoverable and reusable format. This requires defining data quality standards, creating metadata, and establishing data governance and compliance mechanisms. It requires a cross-functional approach that involves different stakeholders within the organization, including business leaders, data scientists, data engineers, and data analysts.
+
+Enriched Data Context
+
+Enriched data context helps improve the accuracy and relevance of data analysis and decision-making by providing additional context and insights into the data. It also helps the organizations better understand the behavior and preferences of their customers or users, leading to more effective marketing and product development strategies.
+
+Domain Driven design
+
+Domain Driven Design (DDD) for a data product emphasizes understanding of the business domain and aligning the data model with it. By aligning the data model with the business domain, DDD helps the organizations create more effective data management solutions that are easier to maintain and adapt to changing business needs. It also makes the software development processes more efficient and effective as the developers can easily understand the business requirements and design software that meets those needs.
+
+Data Democratization
+
+Data democratization makes the data more accessible and available to everyone in an organization, regardless of their technical expertise or department. Benefits of data democratization is
+
+Quicker insights
+
+Improved data quality
+
+Contextual data
+
+Improved decision making
+
+Empowered employee
+
+GenAI
+
+Unlock the power of AI with our cutting-edge GenAI solutions: tailor-made intelligence to revolutionize your business, boost efficiency, and exceed your goals. Explore the possibilities with
+
+Prompt Engineering
+
+RAG Workflows
+
+Agentic Workflows
+
+Model Evaluations
+
+GenAI Governance
+
+Model Optimization / Tuning
+
+Solutions
+
+Offerings
+
+Get In Touch
+
+Privacy Policy
+
+Our Offerings
+
+Consulting Data Product Engineering GenAI
+
+Discovery & Evaluation (Event Storming)
+
+We perform multiple workshops with business users to discover the needs. Our clients expect us to do the data maturity study of domains & organizations. The benefits of such collaborative workshop are:
+
+Increased user engagement
+
+Improved understanding of user needs
+
+Better alignment with business goals
+
+Enhanced user experience
+
+our email id is https://www.dataverze.ai/contact-us
+
+Solutions
+
+Offerings
+
+Get In Touch
+
+Privacy Policy
+
+We, DataVerze Analytics Pvt. Ltd. (“DataVerze, “We”) are the owners of the website www.DataVerze.ai (“Website”) This Website showcases our products and services offerings (“Offerings”).
+
+We respect data privacy rights and are committed to protecting personal information collected on this Website. This privacy policy (“Privacy Policy”) sets forth how we collect, use and protect the personal information collected on this Website.
+
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY CLICKING “I AGREE” OR BY CONTINUING TO USE THE WEBSITE, PROVIDING US PERSONAL INFORMATION, YOU CONSENT TO OUR USE OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU MAY WITHDRAW YOUR CONSENT OR ALTERNATIVELY CHOOSE NOT TO PROVIDE YOUR PERSONAL INFORMATION ON THE WEBSITE. SUCH AN INTIMATION TO WITHDRAW YOUR CONSENT CAN BE PROVIDED BY EMAIL TO COMMUNICATION DETAILS MENTIONED BELOW.
+
+IF YOU ARE ACCESSING THE WEBSITE ON BEHALF OF A THIRD PARTY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH THIRD-PARTY TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND, IN SUCH AN EVENT YOUR USE OF THE WEBSITE SHALL REFER TO USE BY SUCH THIRD PARTY. IF YOU DO NOT HAVE SUCH AN AUTHORITY (TO PROVIDE ANY PERSONAL INFORMATION OF A THIRD PARTY) OR DO NOT AGREE TO THE TERMS OF THIS PRIVACY POLICY, THEN YOU SHOULD REFRAIN FROM USING THE WEBSITE.
+
+This Privacy Policy is an electronic record in the form of an electronic contract being compliant and construed in accordance with data protection laws of the jurisdictions where we have our presence.
+
+What data do we collect?
+
+To get in touch with us through the ‘contact us’, ‘connect with us’ through our Website, you are required to provide us with your first name, last name, e-mail address, company’s name. For the sake of brevity, the aforementioned information shall be referred to as “Personal Information”
+
+Google Analytics – This Website might use Google Analytics, a web analytics service provided by Google Inc (“Google”). Google Analytics uses cookies, text files that are stored on your computer and enable an analysis of your use of the Website. The information generated by the cookies about your use of this website are usually transferred to a server of Google in the US and stored there. In case of activation of IP anonymization on this website, your IP address from Google will be truncated within Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases is the full IP address is transmitted to a Google server in the US and shortened there. You can refuse the use of cookies by selecting the appropriate settings on your browser software. You can also prevent the data generated by the cookie and related to your use of the website to Google and the processing of these data by Google, by selecting the in the following link (https (including your IP address.): // Download tools.google.com/dlpage/gaoptout?hl=de) available browser plug-in and install it.
+
+Website and Social media accounts– We may also collect, store and use your Personal Information when you (1) access our social networking handles operated by us on Facebook, Twitter, and/or LinkedIn (2) share our blogs through Facebook, Twitter, and/or Linkedin and (3) comment/ provide feedback/testimonials on such social networking handles.  
+
+Cookies-
+
+We use cookies and similar tracking technologies to track user traffic patterns and hold certain registration information. Tracking technologies also used are beacons, tags and scripts to collect and track information and to improve and analyze our service. If you wish to not have the information these technologies collect, used for the purpose of serving you targeted ads the Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to disable cookies altogether etc.
+
+We use cookies to:
+
+    Improve the user experience on the website
+
+    Understand the usage based on the geographical area
+
+    Understand the usage based on the demographics
+
+    Understand and get usage patterns of the users
+
+Examples of Cookies We Use: Session cookies, First party cookies, Third Party cookies, Secure Cookies, HTTP-only cookies.
+
+The cookies will collect following information:
+
+    Clicks and scroll on the Website;
+
+    Visitor’s operating system, browser information, CPU, GPU; and
+
+    Information of Service Provider.
+
+Will disabling the cookies allow users to use the website?
+
+We will not restrict the usage of the Website if the cookies are disabled.
+
+Accuracy of information. Please make sure that any Personal Information you share with us is accurate and up to date information. If you are sharing any Personal Information on behalf of a third person, you should ensure that you are authorized to do so.
+
+What do we do with your data?
+
+We use the Personal Information for the following purposes:
+
+    to inform you about our Offerings and to respond to your requests;
+
+    for creation or development of business intelligence or data analytics in relation to the Offerings provided by us (for this purpose we may share the Personal Information with certain software or tools available online)
+
+    to improve the Offerings;
+
+    to maintain and manage our website;
+
+    to manage our relationship with you;
+
+    for internal record keeping; and to comply with our legal or statutory obligations.
+
+Who do we disclose your data to?
+
+We do not sell, rent, share, distribute, lease or otherwise provide your Personal Information to third parties, without your prior consent. Keeping this in mind, we may disclose your Personal Information in the following cases:
+
+Affiliates: We may provide your Personal Information to our affiliates to enable them to improve the Offerings, provide feedback and respond to their queries.
+
+Service Providers: We may share your Personal Information with the service providers who work with us in connection with operating the Website and/ or providing the Offerings. All such service providers are subject to stringent confidentiality restrictions consistent with this Privacy Policy.
+
+Merger or Acquisition: We may transfer your Personal Information if we are acquired by another entity, or if we merge with another company or transfer a part of our business, including the Website, to a third party. Any such third party or resultant entity that receives your Personal Information shall have the right to continue to use your Personal Information in line with the purposes set out herein. In the event of such a sale or transfer, we may notify you.
+
+Legal and Regulatory Authorities: We may disclose your Personal Information in order to comply with our legal obligations/ court orders/ requests by Govt. authorities.
+
+How long we retain your data?          
+
+We endeavor to only collect such Personal Information that is necessary for the purposes indicated here, and to retain such data for no longer than is necessary for such purposes. The length of time Personal Information is retained, and criteria for determining that time, are dependent on the nature of the Personal Information and the purpose for which it was provided/ collected.
+
+Subject to this section, we will try to delete your Personal Information upon reasonable written request for the same. Please note, however, that there might be latency in deleting Personal Information from our servers and backed-up versions might exist even after deletion. For more information on where and how long your personal data is stored, and for more information on your rights of erasure and portability, please contact info@DataVerze.ai
+
+Our security measures
+
+Your Personal Information is stored on our computer systems located in India, Google email client, and our enterprise email client. Although we provide appropriate firewalls and protections, we cannot warrant the security of any Personal Information transmitted as these systems are not hack-proof. Data pilferage due to unauthorized hacking, virus attacks, technical issues is possible, and we assume no liability or responsibility for it. You are required to be careful to avoid “phishing” scams, where someone may send you an e-mail that looks like it is from us asking for your personal information
+
+Access and Correction
+
+You may contact us at info@DataVerze.aiif you would like to access your Personal Information which we may hold about you, or if you would like us to correct it. Depending on the nature of your request, we may ask you to complete a Personal Information request form or seek certain details to verify the request. In certain cases, we may charge a fee for this service, but we will inform you at the time. All requests for Personal Information will be handled within a reasonable period of time.
+
+Children’s Privacy
+
+We do not knowingly collect Personal Information from children under the age of 16 years without the prior, verifiable consent of his or her legal representative. If you are a child under the age of 16 years, please do not provide any Personal Information. If the legal representative of the child discovers that the child has provided us with Personal Information, we request the legal representative of the child to contact us info@DataVerze.ai to have the Personal Information deleted.
+
+Choice and Opt-Out
+
+We may send you communications including but not limited to (a) notices about your use of our Website and Offerings, including those concerning violations of use, (b) updates, (c) promotional information regarding our Offerings, and (d) newsletters. You may opt out of receiving promotional emails and newsletters from us by following the unsubscribe instructions provided in those emails. Alternatively, you can opt out, at any time, by emailing info@DataVerze.ai with your specific
+
+Links to other websites
+
+Our Website may contain links to other websites/applications of your interest. Please note that we do not have any control over such other websites/applications, and you will be accessing these websites/applications at your own risk. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such websites/applications and those are not governed by this Privacy Policy. You should exercise caution and look at the privacy policy applicable to such websites/applications.
+
+Limitation of liability
+
+To the extent permissible under the law, we shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to, damages for loss of profits, goodwill, data, information, or other intangible losses (even if we have been advised of the possibility of such damages), arising out of this Privacy Policy.
+
+Governing laws and disputes
+
+This Privacy Policy shall be construed and governed by the laws of India without regard to principles of conflict of laws. Any dispute arising, between you and us, shall be submitted to the arbitration to be conducted in Pune, India in the English language, in accordance with the rules of Arbitration and Conciliation Act of 1996, by a sole arbitrator, who shall be appointed by us and the award made in pursuance thereof shall be binding on you and us. Subject to the arbitration provisions, you agree that the courts in Pune, India shall have exclusive jurisdiction over such disputes.
+
+CHANGES TO THIS POLICY
+
+We may update this Privacy Policy from time to time and you are encouraged to check this Privacy Policy on a regular basis to be aware of the changes made to it.
+
+This Privacy Policy was last modified on (October, 2023)
+
+Contact us
+
+If you have any questions or concerns or grievances regarding this Privacy Policy, you can reach out to us at contact@dataverze.ai
+
+the ceo of dataverze is Div Rakesh  
+ (He/Him)  1st degree connection1st
+Early Mover in GenAI | Helping Leaders Build Data/AI-Driven Products | Consultant
+
+DataVerze
+
+Wharton Online
+Pune, Maharashtra, India  Contact info of ceo is  Div’s Profile
+linkedin.com/in/divyarakesh
+personal Website is 
+divyarakesh.com/ (Personal)
+Phone number is 
++919923162425 (Mobile)
+Email is 
+divya.rakesh@gmail.com
+Birthday is
+October 7
+
+info about the ceo is AboutAbout
+A self-driven, innovative, and resourceful professional with a proven track record of managing multiple priorities with a positive approach. With over 22 years of experience in Technology and Management, I am deeply passionate about driving business growth while fostering lasting relationships across all levels. My strength lies in bridging the gap between technical teams and business stakeholders, leveraging a strong understanding of both technology and strategy. Over the past decade, I have focused on helping enterprises build Big Data and AI solutions, and more recently, GenAI-powered products and solutions. Willingness to take on added responsibilities to meet team goals.
+Throughout my career, I have experience in leading and growing various units of a business like
+» Company Strategy
+» Leadership Development
+» Client Engagements & Business Development
+» Operations
+» Data Strategy
+» Product Management
+
+I specialize in scaling Tech Teams. 
+Some of the major clients I have worked with include Availity, KOHLS, Albertsons, GfK, Netcracker, Qoredo ( previously QTel), Morgan Stanley, Adidas, etc.
+
+MAJOR ACHIEVEMENTS:
+
+• Successful Exits from companies in Bigdata & ML domain 
+• Built and grew agile Scrum teams from 0 to 80 employees in only 3 years 
+• Co founded a company where we build E2E product from concept to launch in 18 months
+• Completed the Wharton Business Strategy: Competitive Advantage course.
+
+A firm believer in humanity and nature, when I am not busy at work, I can be found traveling and meeting awesome people across the globe learning about their culture.
+
+Skills:
+Leadership:
+Strategy, Executive Management & Operations, Leadership Development, Business Development, Negotiations.
+
+Product / Project :
+Product Management, Stakeholder Management, Software Business Plan & Strategy, Vendor Management
+
+Technology:
+Big Data (Hadoop, HDFS, Spark), GenAI, Machine Learning, Java, Technology, Cloud technologies (AWS, GCP, Azure),A self-driven, in
+
+Information about our employees are 
+
+Prarthana Shah
+  2nd degree connection2nd
+Senior Data Scientist specializing in AI at DataVerze | Ex-Fractal | Databricks Certified | AI | GenAI | ML | Big Data | Cloud
+ 
+
+
+Kanchan Bora
+ (She/Her)  2nd degree connection2nd
+Machine learning engineer at Dataverze
+
+her university name is Chitkara University, Patiala
+Chandigarh, India  
+
+
+Udit Sharma 
+ (He/Him)  1st degree connection1st
+Machine Learning Engineer @DataVerze
+
+Chitkara University
+Pune, Maharashtra, India  
+
+
+Amit M.
+he is Solution Architect | Catalyst | Cloud | GenAI | MLOps 
+
+Anant Chaudhary 
+he is Engineer - Machine Learning@DataVerze
+
+Sandeep Mehta
+he is cofounder of dataverse
+
+K Sinha
+(She/Her)
+
+
+Gunesh Pandharpurkar  
+he is  Architect | Big Data, Spark, Cloud Solutions, ETL, Data Engineering
+
+NIPUN DOGRA 
+Recent Data Engineering Graduate with 1 Year Experience at Data Verze, Seeking New Opportunities in Data Engineering
+
+
+
+    """
